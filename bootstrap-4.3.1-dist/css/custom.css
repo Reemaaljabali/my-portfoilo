@@ -42,10 +42,10 @@ margin-top:10px;}
             text-align:justify-all; text-align: center;
              padding-top: 20px;font-size: 17px; font-weight: bold; display: none;}
 
-#uni{width: 330px; height:50px;  margin:30px; margin-left: 90px; text-align: center; margin-top: 100px; border-radius: 20px; border: 3px solid red;}	
-#htu{width: 330px;height: 50px; margin:30px;margin-left: 90px;text-align: center;border-radius: 20px;border: 5px solid red;}
-#ex	{width: 330px;height: 50px; margin:30px;margin-left: 90px;text-align: center;border-radius: 20px;border: 5px solid red;}	
-#gp	{width: 330px;height: 50px; margin:30px;margin-left: 90px;text-align: center;border-radius: 20px;border: 5px solid red;}	
+#uni{width: 330px; height:50px;  margin:30px; margin-left: 90px; text-align: center; margin-top: 100px; border-radius: 20px; border: 3px solid ;}	
+#htu{width: 330px;height: 50px; margin:30px;margin-left: 90px;text-align: center;border-radius: 20px;border: 5px solid ;}
+#ex	{width: 330px;height: 50px; margin:30px;margin-left: 90px;text-align: center;border-radius: 20px;border: 5px solid ;}	
+#gp	{width: 330px;height: 50px; margin:30px;margin-left: 90px;text-align: center;border-radius: 20px;border: 5px solid ;}	
 
 .tech{ width: 340px; height: 60px; text-align: center; font-size: 30px; margin-left: 120px; margin-top: 30px;}
 .git{opacity: 0.4;
